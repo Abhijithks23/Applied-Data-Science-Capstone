@@ -1,5 +1,5 @@
 # Applied-Data-Science-Capstone Project
-![Applied-Data-Science-Capstone Project](Data%20Scinence%20Capstone/Data%20Scinence%20Capstone%20Presentation%20(1).jpg)
+(Data%2520Scinence%2520Capstone/Data%2520Scinence%2520Capstone%2520Presentation%2520(1).jpg)
 
 
 
