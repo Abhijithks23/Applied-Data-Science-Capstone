@@ -1,5 +1,5 @@
 # Applied-Data-Science-Capstone Project
-![image](https://github.com/user-attachments/assets/5cb91328-9e48-4a2b-88c2-8dec1d056cd9)
+Data%20Scinence%20Capstone-Presentation%20(1).jpg
 
 
 
