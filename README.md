@@ -7,7 +7,7 @@ SpaceX is a revolutionary company who has disrupt the space industry by offering
 
 **Table of Contents**
 
-1. Data Collection with API
+1. <a href="SpaceX-Data Collection API.ipynb" style="color: blue; text-decoration: underline;">Data Collection with API</a>
 2. Data Collection with Web Scraping
 3. Data Wrangling
 4. EDA with SQL
