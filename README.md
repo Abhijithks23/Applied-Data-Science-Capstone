@@ -1,3 +1,3 @@
 # Applied-Data-Science-Capstone Project
-(Data Scinence Capstone-Presentation (1).jpg)
+![Alt text for your image](images/your_image_name.jpg)
 
