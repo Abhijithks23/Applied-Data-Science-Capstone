@@ -7,12 +7,11 @@ SpaceX is a revolutionary company who has disrupt the space industry by offering
 
 **Table of Contents**
 
-1. <a href="SpaceX-Data Collection API.ipynb" style="color: blue; text-decoration: underline;">Data Collection with API</a>
-2. Data Collection with Web Scraping
-3. Data Wrangling
-4. EDA with SQL
-5. EDA with Visulaization Lab
-6. Interactive Visual Analytics with Folium
-7. Dashboard Application (Code)
-8. Predictive Analysis - Machine Learning Lab
-9. Final Presentation (Slide)
+1. <a href="SpaceX-Data Collection with API.ipynb" style="color: blue; text-decoration: underline;">Data Collection with API</a> 
+2. <a href="SpaceX-Data Collection with Web Scraping.ipynb" style="color: blue; text-decoration: underline;">Data Collection with Web Scraping</a> 
+3. <a href="SpaceX-Data Wrangling.ipynb" style="color: blue; text-decoration: underline;">Data Wrangling</a> 
+4. <a href="EDA with SQL.ipynb" style="color: blue; text-decoration: underline;">EDA with SQL</a> 
+5. <a href="SpaceX-EDA with Data Visualization.ipynb" style="color: blue; text-decoration: underline;">EDA with Visulaization Lab</a> 
+6. <a href="SpaceX-LaunchSite Interactive Visual Analytics.ipynb" style="color: blue; text-decoration: underline;">Interactive Visual Analytics with Folium</a> 
+7. <a href="SpaceX-Machine_Learning_Prediction.jupyterlite.ipynb" style="color: blue; text-decoration: underline;">Predictive Analysis - Machine Learning Lab</a> 
+8. <a href="Data Scinence Capstone-Presentation.pptx" style="color: blue; text-decoration: underline;">Final Presentation (Slide)</a> 
